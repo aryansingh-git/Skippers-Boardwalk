@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/SampleScene - Copy.unity
+    guid: be521f29e3c99264684357924c416ce5
+  - enabled: 1
+    path: Assets/Scenes/Slideshow.unity
+    guid: 0a0b3df15b17ee5499dc10a90fc26672
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: a285a70cd475345009efbf773e41fb5d
+  - enabled: 1
+    path: Assets/2D Games/MemoryGame/Scenes/MemoryGame.unity
+    guid: 01c976fc0e69fd641a1f8443f11b9b22
+  - enabled: 1
+    path: Assets/2D Games/Wack the Mole/Scenes/Wack the Mole.unity
+    guid: 35069d40bf175bd49959cd394c860154
+  - enabled: 1
+    path: Assets/2D Games/Wiring Game/Scenes/Wiring Game.unity
+    guid: 6abd1b91a6ba0f341b555931d6298478
+  - enabled: 1
+    path: Assets/2D Games/Safe/Scenes/Safe.unity
+    guid: b22e3d54b9d644efa9ba4bf9bf651a44
+  - enabled: 1
+    path: Assets/Scenes/Bad Ending.unity
+    guid: 21750bc6eaa553b40ab1aab8d73ead93
+  - enabled: 1
+    path: Assets/Scenes/Good Ending.unity
+    guid: 638440aee596bc142a326e990120ec99
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b3f5516de8cfb8749960e2123e72dbbf
+  m_configObjects: {}

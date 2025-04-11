@@ -1,0 +1,22 @@
+print "Starting maya loading and fbx conversion \n";
+	
+if (`file -q -exists "/Users/aryansingh/Documents/GitHub/Skipper's Boardwalk/Assets/All/Prefabs/Boardwalk_Single_Ticket.mb"`)
+{		
+	file -o "/Users/aryansingh/Documents/GitHub/Skipper's Boardwalk/Assets/All/Prefabs/Boardwalk_Single_Ticket.mb";
+	FBXExportEmbeddedTextures -v false;
+	// FBXExportHardEdges -v true;
+	FBXExportApplyConstantKeyReducer -v false;
+	FBXExportShowUI -v false;
+
+	print "Before fbx export\n";
+	FBXExport -f "/Users/aryansingh/Documents/GitHub/Skipper's Boardwalk/Temp/ExportedFBXFile.fbx";
+	print "after fbx export\n";
+}
+else
+	print "Could not open Maya file.";
+
+sysFile -delete "/Users/aryansingh/Documents/GitHub/Skipper's Boardwalk/Temp/CommandPipe";
+
+$donepipeKill = `fopen "/Users/aryansingh/Documents/GitHub/Skipper's Boardwalk/Temp/SyncPipeKill" "w"`;
+fwrite $donepipeKill "Done";
+fclose $donepipeKill;

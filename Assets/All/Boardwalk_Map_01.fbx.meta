@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 3c96d2292a16ef94791562137323ee7c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Balloons_aiStandardSurface1
+    second: {fileID: 2100000, guid: 79905eea2aafcf243bbb253beae95838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Balloons_aiStandardSurface2
+    second: {fileID: 2100000, guid: d6224ab2e57842a4fa63707e66fbf151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Octopus_aiStandardSurface1
+    second: {fileID: 2100000, guid: bd81353171603384c80dd82841cb91ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: ce36ea34cbb802b4fbcd9bfec7e612ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Starfish_aiStandardSurface1
+    second: {fileID: 2100000, guid: cbc3055722c586f4da79d5ae5d9b8be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: 79512b8137fce2f4fb2603dd964edcec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 1408cceb9c3ca784ba54c296defebf3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: eb928ed29b8a44d4fbb36a3a1a8f4ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: dabc6a20d9824a9408bd951dc283e7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_B_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: f5c14de2669eff24d83b3171343d6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Bag_aiStandardSurface3
+    second: {fileID: 2100000, guid: 93afa6bb85783f441bf0183a54a111eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Bag_standardSurface2
+    second: {fileID: 2100000, guid: 2a814aa7f6f2a794984e47155a27af21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_Boardwalk_Simple_Booth___Blue_aiStandardSurface3
+    second: {fileID: 2100000, guid: b44aa0ab1dd812446944e626da5a4fc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface1
+    second: {fileID: 2100000, guid: 35024c28a116f0c41be8aeb710618243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface3
+    second: {fileID: 2100000, guid: 723035d7da90d184495d719150b45d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface5
+    second: {fileID: 2100000, guid: dde2dc596ba87784eb40401c93a57c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface6
+    second: {fileID: 2100000, guid: 93c497bd308f3fb4092f2acb2e31dfed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface7
+    second: {fileID: 2100000, guid: 2dfbbfb36e9440f4c87aef9922e978bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Balloon_Booth_pasted__aiStandardSurface8
+    second: {fileID: 2100000, guid: 906d1120c6de3b04aadb9dd6c74c81ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Basket_Decor_aiStandardSurface1
+    second: {fileID: 2100000, guid: d92e595df178ef549a4aad7a82a676c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Basketball_aiStandardSurface1
+    second: {fileID: 2100000, guid: 060419b88c5d7f54a89dfbb0fa6c72d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface1
+    second: {fileID: 2100000, guid: fe666d8c778124c48addaf4b80405407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface10
+    second: {fileID: 2100000, guid: 5d07961d644ab81418702f783a9ce819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface11
+    second: {fileID: 2100000, guid: 00ff85bf403f58a4db1dc5241d58d23f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface17
+    second: {fileID: 2100000, guid: 3713e1a87a16ba8409e6dc5bfc81b501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface18
+    second: {fileID: 2100000, guid: d8b7aa453dfefe84da8f19d3200ce1fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface19
+    second: {fileID: 2100000, guid: 4ba6b55f06f54fb498a54ba5be43a3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface2
+    second: {fileID: 2100000, guid: 98360ead275c504488be8cfe76f37706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface20
+    second: {fileID: 2100000, guid: 68dafad7fe8c67e4d99b62dfd5a58878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface21
+    second: {fileID: 2100000, guid: 1f62986d4f424284390cb6663f95e091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface3
+    second: {fileID: 2100000, guid: 1a58484b79ddaa948bb45357d31e91eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface4
+    second: {fileID: 2100000, guid: a187e84a832ab4f45bcc71acacfdffc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface5
+    second: {fileID: 2100000, guid: ad67e89c57f7c4e4d8e72b836d428389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface7
+    second: {fileID: 2100000, guid: a5889e00822dc444285f6ea1dfe6bbb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface8
+    second: {fileID: 2100000, guid: 3f6bad015fac4a340a1aae892791d9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_aiStandardSurface9
+    second: {fileID: 2100000, guid: 93af8fcf15ce28348809421819223ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Basketball_standardSurface3
+    second: {fileID: 2100000, guid: 513293f5806d9644b8c3fd57c9f204c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface1
+    second: {fileID: 2100000, guid: 9eee70fa07dd08147b9ae578eb184492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface2
+    second: {fileID: 2100000, guid: fa3eb1422c568ef439b339a1e769f850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface3
+    second: {fileID: 2100000, guid: 5f4b5dfe777593d43a32b2ddbfee8d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface4
+    second: {fileID: 2100000, guid: 45565c79992768b4a874305f505cec35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface5
+    second: {fileID: 2100000, guid: c0f5e9c931c7bb84b8ea8867d1ad888a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Puzzle_aiStandardSurface6
+    second: {fileID: 2100000, guid: f68edb7214316cb4f81d33fbb5a13f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Strength_Test_aiStandardSurface2
+    second: {fileID: 2100000, guid: 7c441901abdf2e940b1cd3ae567b0a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Strength_Test_aiStandardSurface3
+    second: {fileID: 2100000, guid: 478d4d326d7ba37418372eabb731cfac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Strength_Test_aiStandardSurface4
+    second: {fileID: 2100000, guid: b142d4a1492573a4fb0adecfd8d74ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Strength_Test_aiStandardSurface5
+    second: {fileID: 2100000, guid: 2deb2bbef6359224ab79570b45011950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Booth_Strength_Test_aiStandardSurface6
+    second: {fileID: 2100000, guid: 67231cadb96f6dc449ca4409254cf152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Caution_Sign_aiStandardSurface1
+    second: {fileID: 2100000, guid: 372bf8b398aaf3b469451f4015277ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Darts_aiStandardSurface3
+    second: {fileID: 2100000, guid: a718ceaaa955dd344ba0077f34eef5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Darts_aiStandardSurface4
+    second: {fileID: 2100000, guid: 08ecc9c503757fe45bc106f549422216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Darts_aiStandardSurface5
+    second: {fileID: 2100000, guid: c7317c0980099ac4a8bb76df04e02289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Entrance_Posts_aiStandardSurface1
+    second: {fileID: 2100000, guid: 4b2539d49c2969743aed68584aa0a64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Entrance_Sign_03_lambert2
+    second: {fileID: 2100000, guid: 8486ae4881ec26b4ca405f6731dbc8b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Balloons_aiStandardSurface1
+    second: {fileID: 2100000, guid: b6a86ea99b2dd1b4fab08065164c35b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Balloons_aiStandardSurface2
+    second: {fileID: 2100000, guid: 20a411be2301dea48bbd27011edc3d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: 0de56f2870509ba4da0f34eefdaec9fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: b80769caa8c6d834cbec9c807277cbe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: f4c6570e96a3334499dd2f7a7b5226f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: f6899af9c5ab53e4c87142f87cefd75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: a15417685955a754d909cea90979bde8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 0ea93407f89389640aca2c6cf969a07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: eed8e62c8f04de64b8c1a6f745de271a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_G_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: ce68440ab7a544c4a92e61edd968c80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_LG_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: d5dce56ae5133174180007ed545582d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_LG_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: ef00cf5e79d99fc4086f33676af2480b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_LG_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: 218ee14371a367246a6a84bfec702f94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_LG_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: b8806f9956bb6034381828927d12b4eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_OG_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 3a798c18dfb306a44a01b9d163432940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_OG_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 0baad208666237d46b09e9e2084a878a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_OG_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: 41d4712c324c5cb41a8c7689af2ebbff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_OG_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: 75d3ffe0f23bc034c82b8d38432e6a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Balloons_aiStandardSurface1
+    second: {fileID: 2100000, guid: 23e4b0dda65294d4d8844f99a21603f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Balloons_standardSurface4
+    second: {fileID: 2100000, guid: e9a18abcb9b1c4049bd3fd19bab7d27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: e08706bb88315264daa8a3444cf22ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: bd51c55d79ff71d449b28ea19e00c35c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: 21a2c42ad4ae70c4db428f043cb7cd20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: 7b8b9f8c05fc24f448e23d7d1f34dc85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 15620a0477a1f2f4e99681b6012f66a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 2e41823d1932c7242aeab9f8a3542072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: b01d5eb6446f0334aa6734a5c7668288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_O_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: cc380a229e96c1a45a673ef8f546d6cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Balloons_aiStandardSurface1
+    second: {fileID: 2100000, guid: 92635e2177ddfa4478d7eeea7911db7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Balloons_aiStandardSurface2
+    second: {fileID: 2100000, guid: a40f93e4962e1004e968ee0e5e153d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: 96b8858b436d1834dac158ad1f827704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: c7e8f4beca82b4f49848e18f1ae9e6f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: 1a706309f954e5946a11187a4280bde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: 4cf726a05936a5746a6490ff510cc468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 862d0a3a54b66004b8d640fad76e3081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 9e373360ab41dba49be3289d86d4885c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: f17f6842ceb17a549b966f1f8a755ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pi_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: 70cf9b7d0f493d44ba5d9a3c8f739465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface4
+    second: {fileID: 2100000, guid: 772bd35a46a40764eb4a83d9985bdcc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface5
+    second: {fileID: 2100000, guid: 861ca7b7b03ce13408f6743a525bb9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface6
+    second: {fileID: 2100000, guid: 2183f01d17ac90042a0a9eeeb05653c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface7
+    second: {fileID: 2100000, guid: 6862330f109603847ac16ec8fec59ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface8
+    second: {fileID: 2100000, guid: 549a5b502815b664483049cbe6499357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth_Texture__1__aiStandardSurface9
+    second: {fileID: 2100000, guid: 85d80bfa12212ed4dbb2311a1baaef27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pointed_Booth___Orange_Red1_aiStandardSurface2
+    second: {fileID: 2100000, guid: 5b2eff301b2ab1a43a359a5e5ece29be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_01_aiStandardSurface1
+    second: {fileID: 2100000, guid: 2b3b3b39b8dc03944a168b7645a5865b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_01_aiStandardSurface2
+    second: {fileID: 2100000, guid: a12a5ba72c8207142b2f90d9d931251a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_02_aiStandardSurface1
+    second: {fileID: 2100000, guid: 99742ae85184a99438199522c9f3d681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_02_aiStandardSurface2
+    second: {fileID: 2100000, guid: fb55f2f1c554a994a8b524a0af724f9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_03_aiStandardSurface1
+    second: {fileID: 2100000, guid: af7abb0ab6f72834cb6935460b6f73f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Poster_03_aiStandardSurface2
+    second: {fileID: 2100000, guid: b5b644dd381d58a4e8a7bbfb4a1ffba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Balloons_aiStandardSurface2
+    second: {fileID: 2100000, guid: 81c390ff3d0f6ea4a90a11dd22a6015c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Balloons_standardSurface4
+    second: {fileID: 2100000, guid: f4d9baade8c25d949b61bd5c1b18ffca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: 1bdb457c748ffad4db9e523905fbe72f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: 30c7bfe94dbd79f478774fa87e346e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: 4e369a7b0f3ecce46b2984f5194a1c42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: 774ea842e88b52a41ac5993c8463993f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 5063899a70310284fa110a01b240d876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 345c5efd16650c942a7f39585647bf3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: 4f4d69b16d56f8f40b7588d93904b21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Pu_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: 2a71080fd8336db4580e113afecd32da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Randal_Structure_aiStandardSurface16
+    second: {fileID: 2100000, guid: eeebfe6557f3bd2479e7465ea8288114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Randal_Structure_aiStandardSurface3
+    second: {fileID: 2100000, guid: 3468ceea7d8990c4d98c15299d500e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Rings__with_stand__aiStandardSurface3
+    second: {fileID: 2100000, guid: 5aa26490da36cfc41a4e917896656b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Rings__with_stand__aiStandardSurface6
+    second: {fileID: 2100000, guid: 2532a5d0ba4b465408fc13cffbf41637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Rings__with_stand__aiStandardSurface7
+    second: {fileID: 2100000, guid: f4a3da5aa868d6140b41c42054be55ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Rings__with_stand__aiStandardSurface8
+    second: {fileID: 2100000, guid: 23056d2da76b1d148a07d9c6efb28d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Roll_of_Tickets_aiStandardSurface1
+    second: {fileID: 2100000, guid: 0585e9c24164ea944b95509d68942a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Roll_of_Tickets_aiStandardSurface2
+    second: {fileID: 2100000, guid: ebe01597934d96444beb3b5fd8a351f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Roll_of_Tickets_aiStandardSurface3
+    second: {fileID: 2100000, guid: 6f4fe14bc9460a14598d533eb0c366c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Roll_of_Tickets_aiStandardSurface4
+    second: {fileID: 2100000, guid: ad6e69fc30865414ba95e31ddbb0a72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Blue1_aiStandardSurface3
+    second: {fileID: 2100000, guid: 6fed874bb456cf04fa381c9054ac8773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__1_4_aiStandardSurface1
+    second: {fileID: 2100000, guid: 3448e3be4e3206740929bae313df0967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__1_4_aiStandardSurface26
+    second: {fileID: 2100000, guid: 4224be796cb36d34d84d0f3e0091780d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__1_4_aiStandardSurface27
+    second: {fileID: 2100000, guid: 2e044df6b565a8a4d81f0ba64d8f9037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__1_4_aiStandardSurface3
+    second: {fileID: 2100000, guid: 1b01ec0e92aa72e4b9ed7e954244576f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__2__aiStandardSurface1
+    second: {fileID: 2100000, guid: b88eeb2dbe7c5db4aa1bf9eaeadd2ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__2__aiStandardSurface2
+    second: {fileID: 2100000, guid: eeb07d48a5703384883e403dafdbb839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Simple_Booth___Textured__2__aiStandardSurface3
+    second: {fileID: 2100000, guid: 182c6d4d281e04142a553cb71216770a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Single_Ticket_aiStandardSurface1
+    second: {fileID: 2100000, guid: 7ac6601a584a54e4fbe1ceaed4716944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Single_Ticket_aiStandardSurface2
+    second: {fileID: 2100000, guid: f4f8014ef07852646a733ac023d455b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_TicketBooth1_aiStandardSurface1
+    second: {fileID: 2100000, guid: 15664fbe630fe9b488251a11aabc6ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_TicketBooth1_aiStandardSurface2
+    second: {fileID: 2100000, guid: 07a516280f4705f41bb6850df992b95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_TicketBooth1_aiStandardSurface3
+    second: {fileID: 2100000, guid: e55b0474a32ed43498897a56cd060242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_aiStandardSurface3
+    second: {fileID: 2100000, guid: 69827a69e214b1c47868de0595f8bd5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_aiStandardSurface4
+    second: {fileID: 2100000, guid: 18e74211803ce3548987650bbb1217da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_aiStandardSurface5
+    second: {fileID: 2100000, guid: 9254c5f386fca7b44937e5320b38c8f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_aiStandardSurface6
+    second: {fileID: 2100000, guid: bcbcc1cb3657ddb40bf44d4a76fc1b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_aiStandardSurface7
+    second: {fileID: 2100000, guid: 74558445ad97c9f468f6c275c5989345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Vending_Machine_standardSurface3
+    second: {fileID: 2100000, guid: 65004cdf1163b4a4abd4035a8b4b45d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Walkway1_aiStandardSurface10
+    second: {fileID: 2100000, guid: bece46d3d9ffba34cbc0710c0d64bdd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Walkway1_aiStandardSurface8
+    second: {fileID: 2100000, guid: ddc4b345ec519cb428427be63bf32225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Walkway1_aiStandardSurface9
+    second: {fileID: 2100000, guid: a42fbd18d8c8253488ba76a61d59cb49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Water_Bottle_aiStandardSurface1
+    second: {fileID: 2100000, guid: d054a3e62e08c264ab3f03ba3536a206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Water_Bottle_aiStandardSurface2
+    second: {fileID: 2100000, guid: 57ae0a64efe223b44adfb1b96c6f4335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Water_Bottle_aiStandardSurface3
+    second: {fileID: 2100000, guid: fe3fd2cbfa73d974a8eab23772b6d39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Balloons_aiStandardSurface1
+    second: {fileID: 2100000, guid: fd500cff6f9da9b4da82d484870ed58e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Balloons_aiStandardSurface2
+    second: {fileID: 2100000, guid: ce43d30a6ca63b649ab26b03705b57da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Octopus_aiStandardSurface2
+    second: {fileID: 2100000, guid: 41a511e0a770d344e9a38d6c48f99db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Octopus_aiStandardSurface3
+    second: {fileID: 2100000, guid: 642cfa911e7a3b147a07b6dc28452718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Starfish_aiStandardSurface2
+    second: {fileID: 2100000, guid: a17e6443bbba0204d912aa929d2d23d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_Starfish_aiStandardSurface3
+    second: {fileID: 2100000, guid: 1ec20804a86850e47a2135bc985c8de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_TeddyBear_aiStandardSurface11
+    second: {fileID: 2100000, guid: 100270df3ed8cab4985d28f753d301f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_TeddyBear_aiStandardSurface12
+    second: {fileID: 2100000, guid: 80e7305430e388b4384508c233b663c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_TeddyBear_aiStandardSurface13
+    second: {fileID: 2100000, guid: 6dfc47d56e5f1a8448137c5f774b01bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boardwalk_Y_TeddyBear_aiStandardSurface2
+    second: {fileID: 2100000, guid: e57b7a84e46b69848bd9951ef596711d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StreetLight_aiStandardSurface1
+    second: {fileID: 2100000, guid: 14bc8b8197a505c4186c149763a32608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface11
+    second: {fileID: 2100000, guid: 6c5d76ed477ccd04399cbfffcd204d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface12
+    second: {fileID: 2100000, guid: 8343e1dd4a2628149873e3070a03cbd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface13
+    second: {fileID: 2100000, guid: 66f9947f6e951be4db0693356d83dabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface4
+    second: {fileID: 2100000, guid: 26b4096e7e32fbb4fbac93afb34ba35b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface6
+    second: {fileID: 2100000, guid: 2ab206ac5ae4daa4b95de9067744026a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface9
+    second: {fileID: 2100000, guid: 5ab16877a0685cc4493b53953274e6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: ea1d40ba32961ec40a9ac6e0cab0a35d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
